@@ -1,0 +1,6 @@
+@SmsVideoDemo_HostAddress = http://localhost:5174
+
+GET {{SmsVideoDemo_HostAddress}}/sms/
+Accept: application/json
+
+###
